@@ -12,7 +12,7 @@ p{font-size:15px;
 	.hero{
 		min-height:750px;
 		background:url("../img/hero.jpg") 
-		center center;
+		left;
 		background-color: rgba(55,36,40,0.88);
 		-webkit-background-size:cover;
 	-moz-background-size:cover;
